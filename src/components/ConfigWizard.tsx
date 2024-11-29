@@ -1,0 +1,1 @@
+{/* Removed since we're not using the config wizard anymore */}
